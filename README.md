@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## Demo
 
-Live version: [https://ruxait.github.io/2.3.1_Aleksandr_Volkov/](https://ruxait.github.io/2.3.1_Aleksandr_Volkov/)
+Live version: [https://ruxait.github.io/4.2.2_Aleksandr_Volkov/](https://ruxait.github.io/4.2.2_Aleksandr_Volkov/)
 
 ## Expanding the ESLint configuration
 

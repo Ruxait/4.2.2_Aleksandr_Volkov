@@ -8,7 +8,7 @@ export const Header = () => {
   const { items } = useTypedSelector(state => state.cartReducer)
   const [opened, setOpened] = useState(false)
 
-  const totalItems = items.reduce((sum, item) => sum + item.quantity, 0)
+  const totalItems = items.length
 
   return (
     <Box
